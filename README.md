@@ -15,26 +15,15 @@ The pipeline begins with preprocessing. Numerical features are scaled, categoric
 
 
 The following classification models are implemented and compared. 
-
 &nbsp;	Logistic Regression
-
 &nbsp;	Decision Trees
-
 &nbsp;	K-Nearest Neighbors
-
 &nbsp;	Support Vector Machines
-
 A baseline model is first established, followed by hyperparameter tuning. Each model is evaluated and metrics tabulated. 
 
 
-
 The results show that tuning significantly improves F1 score, even when accuracy does not increase.
-
 This project showcases practical application of feature engineering, model evaluation, handling imbalanced data, and performance optimization.
-
-
-
-
 
 https://github.com/devasidgmail/comparing\_classifiers
 
