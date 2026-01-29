@@ -6,15 +6,38 @@ This is a practical application to compare the performance of different models o
 The pipeline begins with preprocessing. Numerical features are scaled, categorical variables are one-hot encoded, and all transformations are applied consistently using a ColumnTransformer.
 
 
+<<<<<<< HEAD:README.txt
 The following classification models are implemented and compared.
  	Logistic Regression
  	Decision Trees
  	K-Nearest Neighbors
  	Support Vector Machines
 A baseline model is first established, followed by hyperparameter tuning. Each model is evaluated and metrics tabulated.
+=======
+The pipeline begins with preprocessing. Numerical features are scaled, categorical variables are one-hot encoded, and all transformations are applied consistently using a ColumnTransformer. 
+
+
+
+
+
+The following classification models are implemented and compared. 
+&nbsp;	Logistic Regression
+&nbsp;	Decision Trees
+&nbsp;	K-Nearest Neighbors
+&nbsp;	Support Vector Machines
+A baseline model is first established, followed by hyperparameter tuning. Each model is evaluated and metrics tabulated. 
+
+>>>>>>> 62382653350f96ba6c2b5b468ad825edc684371d:README.md
 
 The results show that tuning significantly improves F1 score, even when accuracy does not increase.
 This project showcases practical application of feature engineering, model evaluation, handling imbalanced data, and performance optimization.
 
+<<<<<<< HEAD:README.txt
 
 https://github.com/devasidgmail/comparing_classifiers
+=======
+https://github.com/devasidgmail/comparing\_classifiers
+
+
+
+>>>>>>> 62382653350f96ba6c2b5b468ad825edc684371d:README.md
